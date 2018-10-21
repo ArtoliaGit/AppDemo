@@ -1,9 +1,7 @@
-package com.artolia.appdemo;
+package com.artolia.appdemo.activity;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-
-import com.artolia.appdemo.ui.activity.BaseActivity;
+import com.artolia.appdemo.R;
+import com.artolia.appdemo.base.BaseActivity;
 
 public class MainActivity extends BaseActivity {
 

@@ -1,4 +1,4 @@
-package com.artolia.appdemo.ui.activity;
+package com.artolia.appdemo.base;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
